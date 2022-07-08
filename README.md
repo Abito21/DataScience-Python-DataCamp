@@ -1,3 +1,3 @@
 # DataScience-Python-DataCamp
  
-This repository is my self-learn repo to learn more about Data Science in DataCamp Academy.
+This repository is my self-learn repo to learn more and practice material about Data Science in DataCamp Academy.
